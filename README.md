@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Prakash Natarajan](https://www.linkedin.com/in/prakashnatarajan1) 👋
 
 ## Technology Enthusiast, Full Stack Engineer !!
-- 🔭 I’m currently working on serverless architecture applications with Thomson Reuters.
+- 🔭 I’m currently working on AWS serverless applications within Thomson Reuters.
 
 If you are interested to see [my website](https://prakashn.com)
 <!--
