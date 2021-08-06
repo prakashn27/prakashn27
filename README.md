@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Prakash Natarajan](https://www.linkedin.com/in/prakashnatarajan1)
 
-## Technology Enthusiast, Full Stack Engineer !!
+## Technology Enthusiast, "FullStack" and Backend Software Engineer !!
 -  👨‍💻 I’m currently working on AWS serverless applications within Thomson Reuters.
 - 🌱 I’m currently learning Javascript, Java, Scala and Python
 - 💬 Ask me about anything
