@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Technology Enthusiast, "FullStack" and Backend Software Engineer !!
 -  👨‍💻 I’m currently working on AWS serverless applications within Thomson Reuters.
-- 🌱 I’m currently learning Javascript, Java, Scala and Python
+- 🌱 I’m currently learning Kotlin, NodeJs, Javascript, Java and Python
 - 💬 Ask me about anything
 - 📫 How to reach me: <hi@prakashn.com>
 - ⚡ If you are interested to see [my website](https://prakashn.com)
