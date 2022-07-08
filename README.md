@@ -23,6 +23,28 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: <hi@prakashn.com>
 - ⚡ If you are interested to see [my website](https://prakashn.com)
+
+<table>
+  <tr>
+    <td>
+    <a href="https://github.com/prakashn27">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashn27&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Prakash Natarajan's github stats" />
+    </a>
+    </td>
+    <td rowspan="2">
+    <a href="https://github.com/prakashn27">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashn27&locale=en&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="prakashn27" />
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/prakashn27">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prakashn27&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD2727&currStreakLabel=7a58d5&fire=DD2727" alt="prakashn27" />
+    </a>
+    </td>
+  </tr>
+</table>
 <!--
 ### Languages and Tools:
 
