@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Technology Enthusiast,  Backend Software Engineer !!
 -  👨‍💻 I’m currently working as Backend Engineer at [WhatsApp](https://www.meta.com).
-- 🌱 I’m currently learning Kotlin, NodeJs, Javascript, Java and Python
+- 🌱 I’m like to work with NodeJs, Javascript, Java and Python.
 - 💬 Ask me about anything
 - 📫 How to reach me: <hi@prakashn.com>
 - ⚡ If you are interested to see [my website](https://prakashn.com)
