@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Prakash Natarajan](https://www.linkedin.com/in/prakashnatarajan1)
 
-## Technology Enthusiast,  Backend Software Engineer !!
+## Technology Enthusiast,  Full Stack Software Engineer !!
 -  👨‍💻 I’m currently working as FullStack Software Engineer at [Otter](https://otter.ca).
 - 🌱 I’m like to work with NodeJs, Javascript, Java and Python.
 - 💬 Ask me about anything
